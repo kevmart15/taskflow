@@ -2,6 +2,12 @@
 
 A full-stack task management application built with React, TypeScript, Node.js, Express, and SQLite.
 
+## Screenshots
+
+![Login Page](assets/screenshot-login.png)
+
+![Dashboard](assets/screenshot-dashboard.png)
+
 ## Features
 
 - User authentication (register/login) with JWT

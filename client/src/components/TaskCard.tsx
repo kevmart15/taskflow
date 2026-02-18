@@ -1,4 +1,4 @@
-import { Task } from '../types';
+import type { Task } from '../types';
 
 const priorityColors = {
   low: 'bg-green-100 text-green-700',

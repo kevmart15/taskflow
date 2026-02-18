@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import api from '../api';
-import { Task, User } from '../types';
+import type { Task, User } from '../types';
 import TaskCard from '../components/TaskCard';
 import TaskModal from '../components/TaskModal';
 

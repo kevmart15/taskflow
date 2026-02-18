@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import api from '../api';
-import { Task } from '../types';
+import type { Task } from '../types';
 
 interface Props {
   task: Task | null;
